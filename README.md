@@ -6,7 +6,7 @@
 4. **CSDN**：[xiaweizi](https://blog.csdn.net/qq_22656383)
 
 
-[![https://github-readme-stats.vercel.app/api?username=xiaweizi&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=xiaweizi&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](http://xiaweizi.cn)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=xiaweizi&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xiaweizi/)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaweizi&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xiaweizi/)
